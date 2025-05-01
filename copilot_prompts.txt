@@ -1,0 +1,2 @@
+Display list of posts from https://dummyjson.com/posts. on posts screen we only show the title of each post and when we click on the title, we will display both title and body.
+Create a dynamic route with the id of the post as the parameter.
