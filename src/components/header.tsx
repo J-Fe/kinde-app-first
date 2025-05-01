@@ -14,7 +14,7 @@ const navLinks = [
     label: "Posts",
   },
   {
-    href: "/create-post",
+    href: "/create", // 경로 수정
     label: "Create post",
   },
 ];
